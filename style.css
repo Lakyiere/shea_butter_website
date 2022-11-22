@@ -36,3 +36,18 @@ font-size: 20px;
 font-weight: 25px;
 
 }
+.cbtn{
+    
+    border-width: 2px;
+}
+.classbtn{
+    padding-top: 2rem;
+}
+.aboutus{
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+/* line-height: 48px; */
+color: #000000;
+padding-bottom: 3rem;
+}
