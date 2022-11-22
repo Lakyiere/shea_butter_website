@@ -1,3 +1,6 @@
+body{
+    font-family: "CeraPro",sans-serif;
+}
 .nav-link{
     color: #000;
 }
@@ -19,4 +22,17 @@
   border-radius: 10.4103px;
   border: 1px solid #31bc2e;
   color: #31bc2e;
+}
+.title-class{
+    color: #004c46;
+    font-size: 48px;
+font-weight: 30px;
+padding-bottom: 2rem;
+padding-top: 5rem;
+}
+.text-class{
+color: rgb(23 23 23 / 70%);
+font-size: 20px;
+font-weight: 25px;
+
 }
