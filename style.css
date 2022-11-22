@@ -45,12 +45,25 @@ font-weight: 25px;
     padding-top: 2rem;
 }
 .aboutus{  
+    padding-top: 3rem;
 font-size: 3rem;
-line-height: 1.4;
-color: #000000;
+line-height: 1;
+color: #363636;
 padding-bottom: 2rem;
 }
 .section2container{
-    background-color: #dddedf;
+    background-color: #f1edf6;
     padding: 3rem;
+}
+.aboutustext{
+    color: rgb(23 23 23 / 70%);
+    justify-content: center;
+    font-size: 19px;
+}
+.boldtext{
+  
+    font-size: 19px;
+}
+.aboutusbtn{
+    padding-top: 2rem;
 }
