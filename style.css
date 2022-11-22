@@ -27,8 +27,9 @@ font-style: normal;
 .title-class{
     color: #004c46;
     font-size: 48px;
-font-weight: 30px;
+font-weight: 50px;
 padding-bottom: 2rem;
+line-height: 1.2;
 padding-top: 5rem;
 }
 .text-class{
