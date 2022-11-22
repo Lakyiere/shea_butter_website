@@ -1,5 +1,6 @@
 body{
-    font-family: "CeraPro",sans-serif;
+        font-family: 'Montserrat';
+font-style: normal;
 }
 .nav-link{
     color: #000;
@@ -43,11 +44,13 @@ font-weight: 25px;
 .classbtn{
     padding-top: 2rem;
 }
-.aboutus{
-    text-align: center;
-    font-weight: 700;
-font-size: 35px;
-/* line-height: 48px; */
+.aboutus{  
+font-size: 3rem;
+line-height: 1.4;
 color: #000000;
-padding-bottom: 3rem;
+padding-bottom: 2rem;
+}
+.section2container{
+    background-color: #dddedf;
+    padding: 3rem;
 }
