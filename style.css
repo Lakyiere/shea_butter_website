@@ -82,3 +82,13 @@ padding-bottom: 2rem;
 line-height: 1;
 font-weight: bold;
 }
+.cardbtn{
+    text-align: center;
+    width: 150px;
+  height: 40px;
+  background: #31bc2e;
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  margin-left: 2rem;
+}
