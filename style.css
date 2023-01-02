@@ -1,12 +1,12 @@
-body{
-        font-family: 'Montserrat';
-font-style: normal;
+body {
+  font-family: "Montserrat";
+  font-style: normal;
 }
-.nav-link{
-    color: #000;
+.nav-link {
+  color: #000;
 }
-.nav_bar{
-    box-shadow: 0px 1px 8px 1px rgba(0, 0, 0, 0.20);
+.nav_bar {
+  box-shadow: 0px 1px 8px 1px rgba(0, 0, 0, 0.2);
 }
 .signup {
   width: 150px;
@@ -24,67 +24,63 @@ font-style: normal;
   border: 1px solid #31bc2e;
   color: #31bc2e;
 }
-.title-class{
-    color: #004c46;
-    font-size: 48px;
-font-weight: 50px;
-padding-bottom: 2rem;
-line-height: 1.2;
-padding-top: 5rem;
+.title-class {
+  color: #004c46;
+  font-size: 48px;
+  font-weight: 50px;
+  padding-bottom: 2rem;
+  line-height: 1.2;
+  padding-top: 5rem;
 }
-.text-class{
-color: rgb(23 23 23 / 70%);
-font-size: 20px;
-font-weight: 25px;
-
+.text-class {
+  color: rgb(23 23 23 / 70%);
+  font-size: 20px;
+  font-weight: 25px;
 }
-.cbtn{
-    
-    border-width: 2px;
+.cbtn {
+  border-width: 2px;
 }
-.classbtn{
-    padding-top: 2rem;
+.classbtn {
+  padding-top: 2rem;
 }
-.aboutus{  
-    padding-top: 3rem;
-font-size: 3rem;
-line-height: 1;
-color: #363636;
-padding-bottom: 2rem;
+.aboutus {
+  padding-top: 3rem;
+  font-size: 3rem;
+  line-height: 1;
+  color: #363636;
+  padding-bottom: 2rem;
 }
-.section2container{
-    background-color: #f1edf6;
-    padding: 3rem;
+.section2container {
+  background-color: #f1edf6;
+  padding: 3rem;
 }
-.aboutustext{
-    color: rgb(23 23 23 / 70%);
-    justify-content: center;
-    font-size: 19px;
+.aboutustext {
+  color: rgb(23 23 23 / 70%);
+  justify-content: center;
+  font-size: 19px;
 }
-.boldtext{
-  
-    font-size: 19px;
+.boldtext {
+  font-size: 19px;
 }
-.aboutusbtn{
-    padding-top: 2rem;
+.aboutusbtn {
+  padding-top: 2rem;
 }
-.product-class{
-    text-align: center;
-    font-size: 3rem;
-line-height: 1;
-padding-bottom: 2rem;
-
+.product-class {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1;
+  padding-bottom: 2rem;
 }
-.card-title{
-    color: #000;
-    text-align: center;
-    font-size: 1.2rem;
-line-height: 1;
-font-weight: bold;
+.card-title {
+  color: #000;
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1;
+  font-weight: bold;
 }
-.cardbtn{
-    text-align: center;
-    width: 150px;
+.cardbtn {
+  text-align: center;
+  width: 150px;
   height: 40px;
   background: #31bc2e;
   border-radius: 10px;
